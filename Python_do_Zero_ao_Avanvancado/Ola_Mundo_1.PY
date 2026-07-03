@@ -1,1 +1,0 @@
-print("Olá, seja bem vindo a programação web")
