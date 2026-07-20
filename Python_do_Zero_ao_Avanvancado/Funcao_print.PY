@@ -12,12 +12,12 @@ print("Imprime a mensagem e muda de linha.")
 print("Imprime a mensagem e permanece na linha.",end="")
 print("Continuo na mesma linha")
 
-nome_3 = "Basílio CTO" ; idade_1 = 18
+nome_3 = "Basílio CTO" ; idade_1 = 19
 mensagem_2 = "Eu sou o {0} e tenho {1}".format(nome_3,idade_1)
 print("Eu sou o {0} e tenho {1}".format(nome_3,idade_1))
 print(mensagem_2)
 
-nome_4 = "Rachael" ; idade_2 = 16
+nome_4 = "Rachael" ; idade_2 = 17
 mensagem_3 = f"Meu nome é {nome_4} e tenho {idade_2}"
 print(f"Meu nome é {nome_4} e tenho {idade_2}")
 print(mensagem_3)
